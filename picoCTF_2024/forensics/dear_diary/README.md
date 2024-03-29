@@ -36,6 +36,7 @@ I ran `grep -roE 'innocuous' -A 10` on the folder and found a match in `[SYS]/Jo
 $ file Journal   
 Journal: data
 ```
+Obviously this is what `its-all-in-the-name` hints to, and not dd. Diary = Journal.
 Running `cat` or `strings` on the `Journal` file doesn't amount to much, so remembering the hint here helped me out, so instead I did:
 
 ```
