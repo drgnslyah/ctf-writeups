@@ -13,7 +13,7 @@ sleep 10
 
 We can see that the files were modified in February, and the next step is to check the Autopsy Timeline. This could have been interesting, but unfortunately this ultimately leads to nothing, though we can see the log of events.
 
-PS: I found out after the event that the Autopsy browser would have lead to different results, and that you can easily found the flag there. I learned a valuable lesson here: Autopsy GUI may be good to get a quick overview of the system, but unfortunately lacks some functions compared to the browser version.
+PS: I found out after the event that the Autopsy browser would have lead to different results, and that you can easily find the flag there. I learned a valuable lesson here: Autopsy GUI may be good to get a quick overview of the system, but unfortunately lacks some functions compared to the browser version.
 
 ### Rabbit hole
 After spending a lot of time in Autopsy GUI and FTK Imager, I spent some time going down various rabbit holes. They might have lead to something, but I couldn't manage to get anything out of it.
